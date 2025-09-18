@@ -25,7 +25,7 @@
 
 ## 📫 Connect with me  
 
-🌐 [Portfolio](https://github.com/lise-dev/portfolio) · 💼 [LinkedIn](https://linkedin.com/in/liserochat) · 📧 [Email](mailto:rochatlise17@gmail.com)  
+🌐 [Portfolio](https://lise-dev.github.io/portfolio/) · 💼 [LinkedIn](https://linkedin.com/in/liserochat) · 📧 [Email](mailto:rochatlise17@gmail.com)  
 
 ---
 
